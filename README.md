@@ -1,4 +1,4 @@
-# multipurpose-list-creator-GUI-using-Java
+# multipurpose-to-do-list-creator-GUI-using-Java
 It is a java GUI based application that makes use of JSwing and awt events as well as other libraries such as networks and util classes. 
 It contains shopping list creator-> you can add any item and its quantity and the app will generate a neatly arranged shoppin list with checkbox which you can print or use for shopping.  
 music list-> You can add any music that you want to listen to here and by clicking the music it will play if that music file is linked locally. 
